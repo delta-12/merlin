@@ -22,7 +22,7 @@ Set ```<ip_address>``` to the IP address of the webserver/webdav server hosting 
 Set ```<ip_address>``` to the IP address of the webdav server.
 
 # svchost.vbs
-```svchost.bat``` silently runs ```svchost.bat``` when the user logs in.
+```svchost.vbs``` silently runs ```svchost.bat``` when the user logs in.
 
 # cleanup.bat
 ```cleanup.bat``` removes any of the aforementioned scripts from the machine and deletes persistence.
